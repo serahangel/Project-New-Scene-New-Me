@@ -1,0 +1,11 @@
+-Starter code from Mr.Aiello
+-Reference to the example project from Mr.Aiello
+-sample animation stack from Mr.Aiello
+-Images from pinterest and my camera roll
+-Audio from pixabay
+-A.I clarification for
+    - Debugging 
+    - Explained Theater play scenes to fix my drawstack code
+    - helped correct array index errors
+    - helped troubleshoot audio playback length issues
+    - helped fix execution order
